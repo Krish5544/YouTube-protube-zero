@@ -1,0 +1,4 @@
+dependencies {
+    // ExoPlayer की लेटेस्ट लाइब्रेरी
+    implementation "com.google.android.exoplayer:exoplayer:2.19.1"
+}
